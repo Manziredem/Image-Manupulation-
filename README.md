@@ -1,2 +1,2 @@
 # Image-Manupulation-
-This repository contains files with different techniques for image manipulation 
+Different techniques for image manipulation 
